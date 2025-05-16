@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EstudoLinearLayout</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="ButtonLogin">Login</string>
+    <string name="inscreve_se">Inscreve-se</string>
+    <string name="login">Login</string>
+    <string name="seguros_xpto">Seguros XPTO</string>
+    <string name="servicos">Serviços</string>
+    <string name="automaveis">Automaveis</string>
+    <string name="imoveis">Imóveis</string>
+    <string name="novidades">Novidades</string>
+    <string name="Desconto_porcento">Descontos de 5% ao assinar este mês!</string>
+    <string name="precisa_de_ajuda">Precisa de ajuda?</string>
+    <string name="emtre_em_contato">Emtre em contato</string>
+</resources>
